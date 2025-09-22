@@ -3,7 +3,7 @@
 できるスキルはjsp、javaScript、Vue、DBです。最近reactとnext.js、python基板の個人プロジェクトを行っています。<br>
 作業の連絡や興味があるかたいらっしゃいましたらご連絡、お願いいたします。😄
 <br><br>
-💬連絡先
+💬連絡先<br>
 email:kwphongcher@gmail.com
 <!--
 **jingon-song/jingon-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
