@@ -1,5 +1,10 @@
-## Hi there 👋
-
+9年目のJava開発者の宋眞坤（ソンジンゴン）です。<br>
+韓国出身で2018年から日本の東京で働いています。<br>
+できるスキルはjsp、javaScript、Vue、DBです。最近reactとnext.js、python基板の個人プロジェクトを行っています。<br>
+現場や興味があるかたいらっしゃいましたらご連絡、お願いいたします。😄
+<br><br>
+💬連絡先
+email:kwphongcher@gmail.com
 <!--
 **jingon-song/jingon-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
